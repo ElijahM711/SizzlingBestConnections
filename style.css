@@ -1,15 +1,16 @@
 
   body{
-    background-image: url(https://www.freepik.com/free-photo/decorative-heart-sprinkles-copy-space_7598342.htm):
-    backgrond-size: cover;
-    text-align: center;
+      background: url(https://nitrocdn.com/wGQBfjwJxisdWFaHfyrEIdkKcKRLgtJH/assets/static/source/wp-content/uploads/2017/05/daaea7abfc722854e3ba5a2bd447c31b.galaxy-mousse-cakes-5.jpg) no-repeat fixed center;
+      background-size: cover;
   }
   h4{
     color: red;
   }
   li{
-    color: blue; 
+    color: #FFA143; 
+    text-decoration: ;
   }
   strong{
     color: red;
   }
+  
