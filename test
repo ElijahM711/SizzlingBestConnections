@@ -1,0 +1,65 @@
+<!-- Hey, this is a comment -->
+
+<!-- BONUS: Can you find the original commit? -->
+
+<!-- BONUS: What is the value? -->
+
+<!-- NOTE: Click the SECOND ICON
+          to COMMIT & PUSH to your assignment back
+          to GitHub
+          You DO NOT need to use the command line to commit.
+          Just use the sidebar's second icon
+-->
+
+<!--  -->
+
+<html>
+  <head>
+    <title>My Best Recipe</title>
+  </head>
+  <body>
+<input type="image" src="Galaxy Clear Jelly Cake Recipe by Tasty.jpg">
+  <h1>Galaxy Raindrop Cake</h1>
+   <body>by Teddy Villa</body>
+   <h2>A refreshing fat free treat that is both tasty and beautiful</h2>
+ <body>
+  <h4>STAR MIXTURE</h4>
+<li>1 tablespoon silver sugar pearl</li>
+<li>1 tablespoon hot water</li>
+
+<h4>WATER JELLY</h4>
+<ion-list>
+<li>¼ cup agar</li>
+<li> teaspoons sugar,</li>
+<li>1 cup water,</li>
+
+<h4>BLUE JELLY</h4>
+<li>⅔ cup water,</li>
+<li>¼ cup blue hawaii syrup,</li>
+<li>⅛ cup strawberry syrup,</li>
+<li>¼ cup agar powder,</li>
+<h4>SPECIAL EQUIPMENT</h4>
+
+<strong>Iceball tray</strong>
+  </body>
+   <h3>Lets get started</h3> 
+   <ol>
+     <li> the star mixture: In a small bowl, combine the sugar pearls and hot water and whisk until the all of the balls are separated. Set aside.</li>
+     <li> the water jelly: In a small bowl, combine the agar and sugar.</li>
+     <li>Add the water to a small pan, then add the agar mixture and stir to combine. Cook over high heat until boiling. Reduce the heat to low and cook for 2 minutes. Meanwhile, fill a large bowl with ice and cold water</li>
+     Add the water to a small pan, then add the agar mixture and stir to combine. Cook over high heat until boiling. Reduce the heat to low and cook for 2 minutes. Meanwhile, fill a large bowl with ice and cold water.
+    <li> Move the pan to the ice bath and chill for 3 minutes, stirring occasionally.</li>
+    <li>Pour the agar mixture into the ice ball tray. Chill in the refrigerator for 10 minutes.</li>
+    <li>Make the blue jelly: In a small pan, combine the water, blue Hawaii syrup, strawberry syrup, and agar and stir to combine. Cook over high heat until boiling. Reduce the heat to low and cook for 2 minutes.</li>
+    <li>Move the pan to the ice bath and chill for 2 minutes, stirring occasionally.</li>
+    <li>Using a skewer or toothpick, scratch the surface of the chilled water jelly. Pour the star mixture over the water jelly. Add the blue jelly and cover with the lid, and fridge for 30 minutes.</li>
+    <li>Remove the raindrop cake from the tray.</li>
+    <li>Enjoy!</li>
+   </ol>
+    
+    <!-- Please add ordered/numbered instructions -->
+
+
+    
+  </body>
+</html>
